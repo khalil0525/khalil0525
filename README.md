@@ -4,21 +4,21 @@
 > 📚 I'm currently studying and practicing, daily, to increase my knowledge and skills as a developer. 
 
 ### Interests/Hobbies
-🎮 PC Gamer <br />
-🎵 Music Producer and DJ <br />
-🚗 Self taught mechanic <br />
+> 🎮 PC Gamer <br />
+> 🎵 Music Producer and DJ <br />
+> 🚗 Self taught mechanic <br />
 
 
 ### TOP SKILLS
-Python | Java | C | VSCode | Pycharm | GitHub | SQLite3 | JavaScript 
+> Python | Java | C | VSCode | Pycharm | GitHub | SQLite3 | JavaScript 
 
 ### OTHER SKILLS
 
-Algorithms | Data Strucutres | Game Development | OOP <br /> 
+> Algorithms | Data Strucutres | Game Development | OOP <br /> 
 
-💬 Ask me about ... Anything! <br />
-📫 Collinskhalil@hotmail.com <br />
-🙋 [Linkedin](https://www.linkedin.com/in/khalil-collins/) <br />
+> 💬 Ask me about ... Anything! <br />
+> 📫 Collinskhalil@hotmail.com <br />
+> 🙋 [Linkedin](https://www.linkedin.com/in/khalil-collins/) <br />
 
 
 
