@@ -9,7 +9,7 @@
 > 🚗 Self taught mechanic <br />
 ***
 ### TOP SKILLS
-> JavaScript | Python | Java | React | HTML/CSS | C | VSCode | Pycharm | GitHub | SQLite3 | 
+> JavaScript | Python | Java | React | Firebase | HTML/CSS | C | VSCode | Pycharm | GitHub | SQLite3 | 
 ***
 ### OTHER SKILLS
 > Algorithms | Data Strucutres | Game Development | OOP <br /> 
