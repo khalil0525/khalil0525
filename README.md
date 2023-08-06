@@ -9,7 +9,7 @@
 > 🚗 Self taught mechanic <br />
 ***
 ### TOP SKILLS
-> JavaScript | Python | Java | React | GraphQL | TypeScipt | Next.js | Node | Express.js | Sequelize | Postgresql | Firebase | HTML/CSS | C | VSCode | Pycharm | GitHub | SQLite3 
+> JavaScript | Python | Java | React | GraphQL | TypeScript | Next.js | Node | Express.js | Sequelize | Postgresql | Firebase | HTML/CSS | C | VSCode | Pycharm | GitHub | SQLite3 
 ***
 ### OTHER SKILLS
 > Algorithms | Data Strucutres | Game Development | OOP <br /> 
