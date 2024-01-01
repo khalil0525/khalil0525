@@ -1,13 +1,13 @@
 # 👋 Welcome to My GitHub!
 
 🎓 **About Me**
-I'm a Delaware State University alumnus passionate about full-stack development. I'm actively seeking remote opportunities and thrive on challenges. My professional journey includes work on [Fiverr](https://www.fiverr.com/your_fiverr_profile), [Upwork](https://www.upwork.com/freelancers/your_upwork_profile), and collaborations with innovative startups.
+I'm a Delaware State University alumnus passionate about full-stack development. I'm actively seeking remote opportunities and thrive on challenges. My professional journey includes work on [Fiverr](https://www.fiverr.com/byte_sized_code), [Upwork](https://www.upwork.com/freelancers/~015812edd627c78224), and collaborations with innovative startups.
 
 ---
 
 ## 💼 Professional Experience
-- **Fiverr:** Over 100 projects completed with top satisfaction ratings. [Check out my Fiverr profile](https://www.fiverr.com/your_fiverr_profile)
-- **Upwork:** Contributed to 5+ diverse projects, enhancing client experiences. [View my Upwork profile](https://www.upwork.com/freelancers/your_upwork_profile)
+- **Fiverr:** Over 100 projects completed with top satisfaction ratings. [Check out my Fiverr profile](https://www.fiverr.com/byte_sized_code)
+- **Upwork:** Contributed to 5+ diverse projects, enhancing client experiences. [View my Upwork profile](https://www.upwork.com/freelancers/~015812edd627c78224)
 - **Startups:** Engaged in collaborations, driving tech growth and development.
 
 ---
