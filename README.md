@@ -12,7 +12,9 @@ I'm a Delaware State University alumnus passionate about full-stack development.
 
 ---
 
-## 🛠️ Skills
+
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 ### Full Stack Development
 ![JavaScript](URL_FOR_JAVASCRIPT_IMAGE) ![TypeScript](URL_FOR_TYPESCRIPT_IMAGE) ![React](URL_FOR_REACT_IMAGE) ![Next.js](URL_FOR_NEXT_JS_IMAGE) ![Node.js](URL_FOR_NODE_JS_IMAGE) ![Express.js](URL_FOR_EXPRESS_JS_IMAGE) ![GraphQL](URL_FOR_GRAPHQL_IMAGE) ![Sequelize](URL_FOR_SEQUELIZE_IMAGE) ![Firebase](URL_FOR_FIREBASE_IMAGE)
 
@@ -38,7 +40,7 @@ A comprehensive solution for a bus shuttle company. This CRUD app consists of a 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil0525&show_icons=true&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalil0525&color=green)
-
+## :fire: My Stats: [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=al3sha9&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3sha9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## 📬 Let's Connect!
 **Tech Talks:** Always up for discussions about tech, gaming, music, and more.  
 **Email:** [Collinskhalil@hotmail.com](mailto:Collinskhalil@hotmail.com)  
