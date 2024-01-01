@@ -18,7 +18,7 @@ I'm a Delaware State University alumnus passionate about full-stack development.
 <img src="html.svg" width="24"> <img src="css3.png" width="24"> <img src="javascript.png" width="24"> <img src="typescript-original.svg" width="24"> <img src="react.svg" width="24"> <img src="materialui-original.svg" width="24">  <img src="NextJS.svg" width="24"> <img src="nodejs.svg" width="24"> <img src="express.svg" width="24"> <img src="URL_FOR_GRAPHQL_IMAGE" width="24"> <img src="URL_FOR_SEQUELIZE_IMAGE" width="24"> <img src="firebase.png" width="24"> <img src="postman.png" width="24"> <img src="java-original.svg" width="24">
 
 ### DevOps & CI/CD
-<img src="ubuntu.png" width="24"> <img src="URL_FOR_GITHUB_ACTIONS_IMAGE" width="24"> <img src="heroku.svg" width="24"> <img src="digitalocean.svg" width="24"> <img src="basj.svg" width="24">  <img src="docker.png" width="24">
+<img src="ubuntu.png" width="24"> <img src="URL_FOR_GITHUB_ACTIONS_IMAGE" width="24"> <img src="heroku.svg" width="24"> <img src="digitalocean.svg" width="24"> <img src="bash.svg" width="24">  <img src="docker.png" width="24">
 
 ### Specializations
 <img src="URL_FOR_SOCKET_IO_IMAGE" width="24"> <img src="URL_FOR_REST_API_IMAGE" width="24"> <img src="figma.svg" width="24"> <img src="git.svg" width="24"> <img src="vscode.svg" width="24">
@@ -27,7 +27,7 @@ I'm a Delaware State University alumnus passionate about full-stack development.
 
 ## 🌟 Featured Project: Bus Route CRUD App (Client Project - In Production)
 A comprehensive solution for a bus shuttle company. This CRUD app consists of a backend server, a client app for shuttle riders, and an employee portal for route management. Key features: user privileges, theme modes, reporting tools, and cookie-based authentication.
-[Link to the project](#)
+[Link to the project](https://bus-routing-portal-prod-18d532a8f2ff.herokuapp.com/)
 
 ---
 
@@ -35,14 +35,23 @@ A comprehensive solution for a bus shuttle company. This CRUD app consists of a 
 🎮 PC Gaming | 🎵 Music Production & DJing | 🚗 Mechanics | 🛹 Skateboarding | 🚴 Biking | 🥾 Hiking
 
 ---
-
+<div align="center">
+  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil0525&show_icons=true&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=khalil0525&color=green)
 
-## :fire: My Stats: [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalil0525&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil0525&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalil0525&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil0525&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## 📬 Let's Connect!
-**Tech Talks:** Always up for discussions about tech, gaming, music, and more.  
-**Email:** [Collinskhalil@hotmail.com](mailto:Collinskhalil@hotmail.com)  
+
+**Tech Talks:** Always up for discussions about tech, gaming, music, and more.
+
+**Email:** [Collinskhalil@hotmail.com](mailto:Collinskhalil@hotmail.com) 
+
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/khalil-collins/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=khalil0525&color=green)
