@@ -21,7 +21,7 @@ I'm a Delaware State University alumnus passionate about full-stack development.
 <img src="ubuntu.png" width="24"> <img src="URL_FOR_GITHUB_ACTIONS_IMAGE" width="24"> <img src="heroku.svg" width="24"> <img src="digitalocean.svg" width="24"> <img src="bash.svg" width="24">  <img src="docker.png" width="24">
 
 ### Specializations
-<img src="URL_FOR_SOCKET_IO_IMAGE" width="24"> <img src="URL_FOR_REST_API_IMAGE" width="24"> <img src="figma.svg" width="24"> <img src="git.svg" width="24"> <img src="vscode.svg" width="24">
+<img src="URL_FOR_SOCKET_IO_IMAGE" width="24"> <img src="figma.svg" width="24"> <img src="git.svg" width="24"> <img src="vscode.svg" width="24">
 
 ---
 
