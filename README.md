@@ -1,13 +1,13 @@
 # 👋 Welcome to My GitHub!
 
-🎓 **About Me**
+🎓 **About Me**  
 I'm a Delaware State University alumnus passionate about full-stack development. I'm actively seeking remote opportunities and thrive on challenges. My professional journey includes work on [Fiverr](https://www.fiverr.com/byte_sized_code), [Upwork](https://www.upwork.com/freelancers/~015812edd627c78224), and collaborations with innovative startups.
 
 ---
 
 ## 💼 Professional Experience
-- **Fiverr:** Over 100 projects completed with top satisfaction ratings. [Check out my Fiverr profile <img src="fiverr.svg" width="24">](https://www.fiverr.com/byte_sized_code)
-- **Upwork:** Contributed to 5+ diverse projects, enhancing client experiences. [View my Upwork profile <img src="upwork.svg" width="24">](https://www.upwork.com/freelancers/~015812edd627c78224)
+- <img src="fiverr.svg" width="36"> Over ***100*** projects completed with top satisfaction ratings. [Fiverr profile](https://www.fiverr.com/byte_sized_code)
+- <img src="upwork.svg" width="36"> Contributed to ***5+*** diverse projects, enhancing client experiences. [Upwork profile](https://www.upwork.com/freelancers/~015812edd627c78224)
 - **Startups:** Engaged in collaborations, driving tech growth and development.
 
 ---
@@ -38,16 +38,18 @@ A comprehensive solution for a bus shuttle company. This CRUD app consists of a 
 🎮 PC Gaming | 🎵 Music Production & DJing | 🚗 Mechanics | 🛹 Skateboarding | 🚴 Biking | 🥾 Hiking
 
 ---
+
 <div align="center">
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil0525&show_icons=true&theme=dark)
 
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalil0525&theme=dark&background=000000)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil0525&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
+---
 
 ## 📬 Let's Connect!
 
