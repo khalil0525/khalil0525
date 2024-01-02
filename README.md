@@ -27,8 +27,8 @@ I'm a Delaware State University alumnus passionate about full-stack development.
 
 ## 🌟 Featured Project: Bus Route CRUD App (Client Project - In Production)
 A comprehensive solution for a bus shuttle company. This CRUD app consists of a backend server, a client app for shuttle riders, and an employee portal for route management. Key features: user privileges, theme modes, reporting tools, and cookie-based authentication.
-[Link to the project](https://bus-routing-portal-prod-18d532a8f2ff.herokuapp.com/)
-
+[Link to the admin portal](https://bus-routing-portal-prod-18d532a8f2ff.herokuapp.com/)
+[Link to the bus schedule component](https://main--kc-bus-service-status-client.netlify.app/)
 ---
 
 ## 🎉 Interests & Hobbies
