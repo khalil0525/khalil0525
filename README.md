@@ -6,8 +6,8 @@ I'm a Delaware State University alumnus passionate about full-stack development.
 ---
 
 ## 💼 Professional Experience
-- **Fiverr:** Over 100 projects completed with top satisfaction ratings. [Check out my Fiverr profile](https://www.fiverr.com/byte_sized_code)
-- **Upwork:** Contributed to 5+ diverse projects, enhancing client experiences. [View my Upwork profile](https://www.upwork.com/freelancers/~015812edd627c78224)
+- **Fiverr:** Over 100 projects completed with top satisfaction ratings. [Check out my Fiverr profile <img src="fiverr.svg" width="24">](https://www.fiverr.com/byte_sized_code)
+- **Upwork:** Contributed to 5+ diverse projects, enhancing client experiences. [View my Upwork profile <img src="upwork.svg" width="24">](https://www.upwork.com/freelancers/~015812edd627c78224)
 - **Startups:** Engaged in collaborations, driving tech growth and development.
 
 ---
@@ -15,13 +15,13 @@ I'm a Delaware State University alumnus passionate about full-stack development.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### Full Stack Development
-<img src="html.svg" width="24"> <img src="css3.png" width="24"> <img src="javascript.png" width="24"> <img src="typescript-original.svg" width="24"> <img src="react.svg" width="24"> <img src="materialui-original.svg" width="24">  <img src="NextJS.svg" width="24"> <img src="nodejs.svg" width="24"> <img src="express.svg" width="24"> <img src="URL_FOR_GRAPHQL_IMAGE" width="24"> <img src="URL_FOR_SEQUELIZE_IMAGE" width="24"> <img src="firebase.png" width="24"> <img src="postman.png" width="24"> <img src="java-original.svg" width="24">
+<img src="html.svg" width="24"> <img src="css3.png" width="24"> <img src="javascript.png" width="24"> <img src="typescript-original.svg" width="24"> <img src="react.svg" width="24"> <img src="materialui-original.svg" width="24">  <img src="NextJS.svg" width="24"> <img src="nodejs.svg" width="24"> <img src="express.svg" width="24"> <img src="graphql.svg" width="24"> <img src="sequelize.png" width="24"> <img src="firebase.png" width="24"> <img src="postman.png" width="24"> <img src="java-original.svg" width="24"> <img src="terminal.png" width="24">
 
 ### DevOps & CI/CD
-<img src="ubuntu.png" width="24"> <img src="URL_FOR_GITHUB_ACTIONS_IMAGE" width="24"> <img src="heroku.svg" width="24"> <img src="digitalocean.svg" width="24"> <img src="bash.svg" width="24">  <img src="docker.png" width="24">
+<img src="ubuntu.png" width="24"> <img src="actions.svg" width="24"> <img src="heroku.svg" width="24"> <img src="digitalocean.svg" width="24"> <img src="bash.svg" width="24">  <img src="docker.png" width="24">
 
 ### Specializations
-<img src="URL_FOR_SOCKET_IO_IMAGE" width="24"> <img src="figma.svg" width="24"> <img src="git.svg" width="24"> <img src="vscode.svg" width="24">
+<img src="socket-io.svg" width="24"> <img src="figma.svg" width="24"> <img src="git.svg" width="24"> <img src="vscode.svg" width="24">
 
 ---
 
