@@ -1,32 +1,68 @@
-# 👋 Welcome to My GitHub!
 
-🎓 **About Me**  
-I'm a Delaware State University alumnus passionate about full-stack development. I'm actively seeking remote opportunities and thrive on challenges. My professional journey includes work on [Fiverr](https://www.fiverr.com/byte_sized_code), [Upwork](https://www.upwork.com/freelancers/~015812edd627c78224), and collaborations with innovative startups.
+<div align="center">
+  
+# 👋 Welcome to My GitHub Profile!
+
+</div>
+<div align="left">
+  
+  ### About Me
+  
+🎓 I'm a proud alumnus of Delaware State University with a passion for full-stack development. Actively seeking remote opportunities, I excel in dynamic and challenging environments. My experience spans freelance work on platforms like Fiverr and Upwork, as well as collaborative projects with innovative startups.
 
 ---
 
+</div>
+
+
+
+<div align="right">
+  
+  ### 🎉 Interests & Hobbies
+🎮 PC Gaming | 🎵 Music Production & DJing | 🚗 Mechanics | 🛹 Skateboarding | 🚴 Biking | 🥾 Hiking
+  
+
+---
+
+</div>
+
+<div align="middle">
+
+  
 ## 💼 Professional Experience
-- <img src="fiverr.svg" width="36"> Over ***100*** projects completed with top satisfaction ratings. [Fiverr profile](https://www.fiverr.com/byte_sized_code)
-- <img src="upwork.svg" width="36"> Contributed to ***5+*** diverse projects, enhancing client experiences. [Upwork profile](https://www.upwork.com/freelancers/~015812edd627c78224)
-- **Startups:** Engaged in collaborations, driving tech growth and development.
+
+<img src="fiverr.svg" width="20" align="top">  **Fiverr:** Completed over 100 projects with top satisfaction ratings. [View Profile](https://www.fiverr.com/byte_sized_code)
+
+<img src="upwork.svg" width="20" align="top">  **Upwork:** Contributed to more than 5 diverse projects, enhancing client experiences. [View Profile](https://www.upwork.com/freelancers/~015812edd627c78224)
+
+**Startups:** Actively engaged in tech-driven collaborations, contributing to growth and development.
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+</div>
 
+
+<div align="center">
+  
+## 🛠️ Skills
+  
 ### Full Stack Development
-<img src="html.svg" width="24"> <img src="css3.png" width="24"> <img src="javascript.png" width="24"> <img src="typescript-original.svg" width="24"> <img src="react.svg" width="24"> <img src="materialui-original.svg" width="24">  <img src="NextJS.svg" width="24"> <img src="nodejs.svg" width="24"> <img src="express.svg" width="24"> <img src="graphql.svg" width="24"> <img src="sequelize.png" width="24"> <img src="firebase.png" width="24"> <img src="postman.png" width="24"> <img src="java-original.svg" width="24"> <img src="terminal.png" width="24">
+  
+<img src="html.svg" width="24" align="top"> HTML | <img src="css3.png" width="24" align="top"> CSS | <img src="javascript.png" width="24" align="top"> JavaScript | <img src="typescript-original.svg" width="24" align="top"> TypeScript | <img src="react.svg" width="24" align="top"> React | <img src="materialui-original.svg" width="24" align="top"> Material UI | <img src="NextJS.svg" width="24" align="top"> Next.js | <img src="nodejs.svg" width="24" align="top"> Node.js | <img src="express.svg" width="24" align="top"> Express | <img src="graphql.svg" width="24" align="top"> GraphQL | <img src="sequelize.png" width="24" align="top"> Sequelize | <img src="firebase.png" width="24" align="top"> Firebase | <img src="postman.png" width="24" align="top"> Postman | <img src="java-original.svg" width="24" align="top"> Java | <img src="terminal.png" width="24" align="top"> Terminal
 
 ### DevOps & CI/CD
-<img src="ubuntu.png" width="24"> <img src="actions.svg" width="24"> <img src="heroku.svg" width="24"> <img src="digitalocean.svg" width="24"> <img src="bash.svg" width="24">  <img src="docker.png" width="24">
+<img src="ubuntu.png" width="24" align="top"> Ubuntu | <img src="actions.svg" width="24" align="top"> GitHub Actions | <img src="heroku.svg" width="24" align="top"> Heroku | <img src="digitalocean.svg" width="24" align="top"> DigitalOcean | <img src="bash.svg" width="24" align="top"> Bash | <img src="docker.png" width="24" align="top"> Docker
 
 ### Specializations
-<img src="socket-io.svg" width="24"> <img src="figma.svg" width="24"> <img src="git.svg" width="24"> <img src="vscode.svg" width="24">
+<img src="socket-io.svg" width="24" align="top"> Socket.io | <img src="figma.svg" width="24" align="top"> Figma | <img src="git.svg" width="24" align="top"> Git | <img src="vscode.svg" width="24" align="top"> VS Code
+</div>
 
 ---
 
-## 🌟 Featured Project: Bus Route CRUD App (Client Project - In Production)
-A comprehensive solution for a bus shuttle company. This CRUD app consists of a backend server, a client app for shuttle riders, and an employee portal for route management. Key features: user privileges, theme modes, reporting tools, and cookie-based authentication.
+<div align="center">
+  
+## 🌟 Featured Project: Bus Route CRUD App
+A comprehensive solution designed for a bus shuttle company. This CRUD application includes a backend server, a client app for shuttle riders, and an employee portal for route management. Key features include user privileges, theme modes, reporting tools, and cookie-based authentication.
 
 [Link to the admin portal](https://bus-routing-portal-prod-18d532a8f2ff.herokuapp.com/)
 
@@ -34,29 +70,34 @@ A comprehensive solution for a bus shuttle company. This CRUD app consists of a 
 
 ---
 
-## 🎉 Interests & Hobbies
-🎮 PC Gaming | 🎵 Music Production & DJing | 🚗 Mechanics | 🛹 Skateboarding | 🚴 Biking | 🥾 Hiking
+
+
+</div>
 
 ---
 
 <div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil0525&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalil0525&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalil0525&theme=dark&background=000000)](https://git.io/streak-stats)
- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil0525&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
+<div align="center">
+  
 ## 📬 Let's Connect!
 
-**Tech Talks:** Always up for discussions about tech, gaming, music, and more.
+I'm always open to discussing tech, gaming, music, and more. Feel free to reach out!
+  
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:Collinskhalil@hotmail.com)
 
-**Email:** [Collinskhalil@hotmail.com](mailto:Collinskhalil@hotmail.com) 
-
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/khalil-collins/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)]([https://www.linkedin.com/in/deepshikha-yadav-27-10/](https://www.linkedin.com/in/khalil-collins/))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalil0525&color=green)
+
+</div>
