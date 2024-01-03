@@ -4,7 +4,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 </div>
-<div align="left">
+<div align="center">
   
   ### About Me
   
@@ -26,7 +26,7 @@
 
 </div>
 
-<div align="middle">
+<div align="left">
 
   
 ## 💼 Professional Experience
