@@ -66,7 +66,7 @@ A comprehensive solution designed for a bus shuttle company. This CRUD applicati
 
 [Link to the admin portal](https://bus-routing-portal-prod-18d532a8f2ff.herokuapp.com/)
 
-[Link to the bus schedule component](https://main--kc-bus-service-status-client.netlify.app/)
+[Link to the bus schedule component](https://passenger-site.netlify.app/)
 
 ---
 
