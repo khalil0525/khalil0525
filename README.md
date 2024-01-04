@@ -16,7 +16,7 @@
 
 
 
-<div align="right">
+<div align="center">
   
   ### 🎉 Interests & Hobbies
 🎮 PC Gaming | 🎵 Music Production & DJing | 🚗 Mechanics | 🛹 Skateboarding | 🚴 Biking | 🥾 Hiking
@@ -26,7 +26,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
   
 ## 💼 Professional Experience
