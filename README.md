@@ -31,9 +31,9 @@
   
 ## 💼 Professional Experience
 
-<img src="fiverr.svg" width="20" align="top">  **Fiverr:** Completed 108+ projects with top satisfaction ratings. [View Profile](https://www.fiverr.com/byte_sized_code)
+<img src="fiverr.svg" width="20" align="top">  Completed 108+ projects with top satisfaction ratings. [View Profile](https://www.fiverr.com/byte_sized_code)
 
-<img src="upwork.svg" width="20" align="top">  **Upwork:** Contributed 4+ diverse projects, enhancing client experiences. [View Profile](https://www.upwork.com/freelancers/~015812edd627c78224)
+<img src="upwork.svg" width="20" align="top">  Contributed 4+ diverse projects, enhancing client experiences. [View Profile](https://www.upwork.com/freelancers/~015812edd627c78224)
 
 **Startups:** Actively engaged in tech-driven collaborations, contributing to growth and development.
 
