@@ -96,7 +96,7 @@ I'm always open to discussing tech, gaming, music, and more. Feel free to reach 
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:Collinskhalil@hotmail.com)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)]([https://www.linkedin.com/in/deepshikha-yadav-27-10/](https://www.linkedin.com/in/khalil-collins/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/khalil-collins/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalil0525&color=green)
 
