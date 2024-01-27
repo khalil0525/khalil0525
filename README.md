@@ -64,9 +64,9 @@
 ## 🌟 Featured Project: Bus Route CRUD App
 A comprehensive solution designed for a bus shuttle company. This CRUD application includes a backend server, a client app for shuttle riders, and an employee portal for route management. Key features include user privileges, theme modes, reporting tools, and cookie-based authentication.
 
-[Link to the admin portal](https://bus-routing-portal-prod-18d532a8f2ff.herokuapp.com/)
+[Link to the shuttle admin portal app](https://bus-routing-portal-prod-18d532a8f2ff.herokuapp.com/)
 
-[Link to the bus schedule component](https://passenger-site.netlify.app/)
+[Link to the bus schedule component (when changes are made in the shuttle admin portal routes they will be changed in real time on this app)](https://passenger-site.netlify.app/)
 
 ---
 
